@@ -6,7 +6,7 @@ Este é um projeto prático de modelagem e manipulação de Banco de Dados Relac
 - **Linguagem:** SQL
 - **SGBD:** MySQL
 
-## ⚙️ O que foi feito (Features)
+## ⚙️ O que foi feito (Estrutura)
 - `DDL (Data Definition Language)`: Criação de tabelas com chaves primárias e estrangeiras.
 - `DML (Data Manipulation Language)`: Inserção de dados simulando produtos, clientes e vendas.
 - `DQL (Data Query Language)`: Consultas envolvendo `JOINs`, agregações (`SUM`, `COUNT`) e agrupamentos (`GROUP BY`).
